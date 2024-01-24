@@ -13,7 +13,8 @@ int main() {
     std::cin >> no_1;
     std::cout << "Enter no 2 " << '\n';
     std::cin >> no_2;
-    std::cout << double (no_1 + no_2);
+    std::cout << double (no_1 + no_2) << '\n';
+    std::cout << "is the output";
     return 0;
 
 }
